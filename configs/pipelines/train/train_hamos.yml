@@ -1,0 +1,56 @@
+exp_name: "'@{dataset.name}'_'@{network.name}'_'@{trainer.name}'_e'@{optimizer.num_epochs}'_lr'@{optimizer.lr}'_'@{mark}'/s'@{seed}'"
+output_dir: ./results/
+save_output: True
+merge_option: default
+mark: default
+seed: 0
+
+num_gpus: 1
+num_workers: 8
+num_machines: 1
+machine_rank: 0
+
+preprocessor:
+  name: hamos
+
+pipeline:
+  name: train
+
+trainer:
+  name: hamos
+  trainer_args:
+    proto_m: 0.95
+    w_disp: 0.5
+    w_comp: 1
+    temp: 0.1
+    sample_number: 1000
+    start_epoch: 0
+    K: 200
+    select: 4
+    loss_weight: 0.1
+    bandwidth: 2.0
+    leapfrog: 3
+    step_size: 0.1
+    margin: 0.2
+    num_neighbor: 4
+    synthesis_every: 1
+
+evaluator:
+  name: base
+
+optimizer:
+  name: sgd
+  num_epochs: 20
+  lr: 0.01
+  momentum: 0.9
+  weight_decay: 0.0001
+  warm: False
+  cosine: True
+  lr_decay_rate: 0.1
+  lr_decay_epochs: [30, 50, 120]
+
+recorder:
+  name: hamos
+  save_all_models: False
+
+
