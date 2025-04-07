@@ -1,15 +1,10 @@
 <h1 align="center">Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection</h1>
 <p align="center">
-    <a href="https://arxiv.org/abs/2501.16718"><img src="https://img.shields.io/badge/arXiv-2501.16718-AE4F55.svg?logo=arxiv
-    " alt="Paper"></a>
-    <a href="https://github.com/Fir-lat/HamOS_OOD"><img src="https://img.shields.io/badge/Github-HamOS-8D4859.svg?logo=github
-    " alt="Code"></a>
-    <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/OpenReview-HamOS-6D415E.svg
-    " alt="Paper"></a>
-    <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/Accepted-ICLR'25-4E3B64.svg
-    " alt="License"></a>
-    <a href="https://iclr.cc/media/iclr-2025/Slides/29899.pdf"><img src="https://img.shields.io/badge/Slides-HamOS-33356A.svg
-    " alt="Slides"></a>
+  <a href="https://arxiv.org/abs/2501.16718"><img src="https://img.shields.io/badge/arXiv-2501.16718-AE4F55.svg?logo=arxiv" alt="Paper"></a>
+  <a href="https://github.com/Fir-lat/HamOS_OOD"><img src="https://img.shields.io/badge/Github-HamOS-8D4859.svg?logo=github" alt="Code"></a>
+  <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/OpenReview-HamOS-6D415E.svg" alt="Paper"></a>
+  <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/Accepted-ICLR'25-4E3B64.svg" alt="License"></a>
+  <a href="https://iclr.cc/media/iclr-2025/Slides/29899.pdf"><img src="https://img.shields.io/badge/Slides-HamOS-33356A.svg" alt="Slides"></a>
   <!-- <a href="https://arxiv.org/abs/2501.16718"><img src="https://img.shields.io/badge/arXiv-2501.16718-b31b1b.svg?logo=arxiv
   " alt="Paper"></a>
   <a href="https://github.com/Fir-lat/HamOS_OOD"><img src="https://img.shields.io/badge/Github-HamOS-333.svg?logo=github&color=333
