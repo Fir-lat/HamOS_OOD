@@ -1,23 +1,15 @@
 <h1 align="center">Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection</h1>
 <p align="center">
-  <a href="https://arxiv.org/abs/2501.16718"><img src="https://img.shields.io/badge/arXiv-2501.16718-AE4F55.svg?logo=arxiv
-  " alt="Paper"></a>
-  <a href="https://github.com/Fir-lat/HamOS_OOD"><img src="https://img.shields.io/badge/Github-HamOS-8D4859.svg?logo=github
-  " alt="Code"></a>
-  <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/OpenReview-HamOS-6D415E.svg
-  " alt="Paper"></a>
-  <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/Accepted-ICLR'25-4E3B64.svg
-  " alt="License"></a>
-  <a href="https://iclr.cc/media/iclr-2025/Slides/29899.pdf"><img src="https://img.shields.io/badge/Slides-HamOS-33356A.svg
-  " alt="Slides"></a>
-  <a href="https://arxiv.org/abs/2303.00250"><img src="https://img.shields.io/badge/arXiv-2303.00250-b31b1b.svg" alt="Paper"></a>
-    <a href="https://openreview.net/forum?id=eKllxpLOOm"><img src="https://img.shields.io/badge/OpenReview-SFAT-blue" alt="Paper"></a>
-    <a href="https://github.com/ZFancy/SFAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-    <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
-    <a href="https://openreview.net/forum?id=eKllxpLOOm"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR%2723&color=red"> </a>
-    <!-- <a href="https://github.com/ZFancy/SFAT/blob/main/license"> <img alt="License" src="https://img.shields.io/github/license/ZFancy/SFAT?color=blue"> </a>-->
-    <!-- <a href="https://neurips.cc/virtual/2022/poster/54643"> <img src="https://img.shields.io/badge/Video-grey?logo=Kuaishou&logoColor=white" alt="Video"></a> -->
-    <a href="https://github.com/ZFancy/SFAT/blob/main/pictures/ICLR23_SFAT.pdf"> <img src="https://img.shields.io/badge/Slides-SFAT-yellow" alt="Slides"></a>
+    <a href="https://arxiv.org/abs/2501.16718"><img src="https://img.shields.io/badge/arXiv-2501.16718-AE4F55.svg?logo=arxiv
+    " alt="Paper"></a>
+    <a href="https://github.com/Fir-lat/HamOS_OOD"><img src="https://img.shields.io/badge/Github-HamOS-8D4859.svg?logo=github
+    " alt="Code"></a>
+    <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/OpenReview-HamOS-6D415E.svg
+    " alt="Paper"></a>
+    <a href="https://openreview.net/forum?id=N6ba2xsmds"><img src="https://img.shields.io/badge/Accepted-ICLR'25-4E3B64.svg
+    " alt="License"></a>
+    <a href="https://iclr.cc/media/iclr-2025/Slides/29899.pdf"><img src="https://img.shields.io/badge/Slides-HamOS-33356A.svg
+    " alt="Slides"></a>
   <!-- <a href="https://arxiv.org/abs/2501.16718"><img src="https://img.shields.io/badge/arXiv-2501.16718-b31b1b.svg?logo=arxiv
   " alt="Paper"></a>
   <a href="https://github.com/Fir-lat/HamOS_OOD"><img src="https://img.shields.io/badge/Github-HamOS-333.svg?logo=github&color=333
