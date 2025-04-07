@@ -17,7 +17,7 @@
   " alt="Slides"></a> -->
 </p>
 
-This codebase provides a Pytorch implementation for the our paper [Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection](https://openreview.net/forum?id=N6ba2xsmds) in ICLR 2025.
+This codebase provides a Pytorch implementation for ```HamOS``` in [Outlier Synthesis via Hamiltonian Monte Carlo for Out-of-Distribution Detection](https://openreview.net/forum?id=N6ba2xsmds) in ICLR 2025.
 
 <p align="center"><img src="figure/hamos_framework.png" width=100%></p>
 <p align="center"><em>Figure.</em> Depiction of HamOS.</p>
